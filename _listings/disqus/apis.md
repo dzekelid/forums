@@ -31,7 +31,7 @@ apis:
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/forums/master/_listings/disqus/forums-removemoderator-json-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/forums/master/_listings/disqus/forums-unfollow-json-post.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
