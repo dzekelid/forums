@@ -17,8 +17,8 @@ tags:
 - Media
 - Content
 - Comments
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/forums/master/_listings/disqus/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -31,7 +31,7 @@ apis:
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/forums/master/_listings/disqus/users-listforums-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/forums/master/_listings/disqus/forums-interestingforums-json-get.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
