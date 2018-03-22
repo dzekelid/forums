@@ -31,7 +31,7 @@ apis:
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/forums-trusteddomain-list-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/users-listfollowingforums-json-get.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
