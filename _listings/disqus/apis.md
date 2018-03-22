@@ -31,7 +31,7 @@ apis:
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/forums-validate-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/internal-forums-actionhistory-create-json-post.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
