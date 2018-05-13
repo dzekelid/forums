@@ -32,15 +32,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/users-listforums-json-get.md
-- name: Disqus Forums GenerateInterestingContent
-  description: Forums GenerateInterestingContent
+- name: Disqus Forums InterestingForums
+  description: Forums InterestingForums
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/api/3.0/
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/forums-generateinterestingcontent-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/forums-interestingforums-json-get.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
