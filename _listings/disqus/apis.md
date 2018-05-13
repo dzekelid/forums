@@ -32,15 +32,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/users-listforums-json-get.md
-- name: Disqus Internal Forums ActionHistory Delete
-  description: Internal Forums ActionHistory Delete
+- name: Disqus Internal Forums ActionHistory Update
+  description: Internal Forums ActionHistory Update
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/api/3.0/
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/internal-forums-actionhistory-delete-json-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/internal-forums-actionhistory-update-json-post.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
