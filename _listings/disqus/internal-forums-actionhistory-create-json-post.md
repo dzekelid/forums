@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Disqus
-  description: Welcome to the Disqus Web API. The API enables developers to communicate
-    with Disqus data from within their own applications.
+  title: Disqus Internal Forums ActionHistory Create
+  description: Internal Forums ActionHistory Create
   termsOfService: https://docs.disqus.com/kb/terms-and-policies/
   version: 1.0.0
 host: disqus.com
@@ -15,10 +14,8 @@ produces:
 consumes:
 - application/json
 paths:
-  ? |2-
-
-        /internal/forums/actionHistory/create.json
-  : post:
+  /internal/forums/actionHistory/create.json:
+    post:
       summary: Internal Forums ActionHistory Create
       description: "\n     Internal Forums ActionHistory Create "
       operationId: internal-forums-actionhistory-create
