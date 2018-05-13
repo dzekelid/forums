@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Disqus
-  description: Welcome to the Disqus Web API. The API enables developers to communicate
-    with Disqus data from within their own applications.
+  title: Disqus Forums ListUserModerationHistory
+  description: Forums ListUserModerationHistory
   termsOfService: https://docs.disqus.com/kb/terms-and-policies/
   version: 1.0.0
 host: disqus.com
@@ -15,10 +14,8 @@ produces:
 consumes:
 - application/json
 paths:
-  ? |2-
-
-        /forums/listUserModerationHistory.json
-  : get:
+  /forums/listUserModerationHistory.json:
+    get:
       summary: Forums ListUserModerationHistory
       description: "\n     Forums ListUserModerationHistory "
       operationId: forums-listusermoderationhistory
