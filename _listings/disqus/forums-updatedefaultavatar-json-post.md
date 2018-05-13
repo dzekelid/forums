@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Disqus
-  description: Welcome to the Disqus Web API. The API enables developers to communicate
-    with Disqus data from within their own applications.
+  title: Disqus Forums UpdateDefaultAvatar
+  description: Forums UpdateDefaultAvatar
   termsOfService: https://docs.disqus.com/kb/terms-and-policies/
   version: 1.0.0
 host: disqus.com
@@ -15,10 +14,8 @@ produces:
 consumes:
 - application/json
 paths:
-  ? |2-
-
-        /forums/updateDefaultAvatar.json
-  : post:
+  /forums/updateDefaultAvatar.json:
+    post:
       summary: Forums UpdateDefaultAvatar
       description: "\n     Forums UpdateDefaultAvatar "
       operationId: forums-updatedefaultavatar
