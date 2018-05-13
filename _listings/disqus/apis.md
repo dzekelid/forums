@@ -32,15 +32,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/users-listforums-json-get.md
-- name: Disqus Forums TrustedDomain List
-  description: Forums TrustedDomain List
+- name: Disqus Users ListFollowingForums
+  description: Users ListFollowingForums
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/api/3.0/
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/forums-trusteddomain-list-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/users-listfollowingforums-json-get.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
