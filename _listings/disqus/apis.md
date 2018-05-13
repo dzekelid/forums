@@ -32,15 +32,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/users-listforums-json-get.md
-- name: Disqus Forums Validate
-  description: Forums Validate
+- name: Disqus Internal Forums ActionHistory Create
+  description: Internal Forums ActionHistory Create
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
   humanURL: https://disqus.com/
   baseURL: https://disqus.com/api/3.0/
   tags: Forums
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/forums-validate-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/internal-forums-actionhistory-create-json-post.md
 x-common:
 - type: x-base
   url: https://disqus.com/api/
