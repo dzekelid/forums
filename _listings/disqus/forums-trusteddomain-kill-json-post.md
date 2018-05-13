@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Disqus
-  description: Welcome to the Disqus Web API. The API enables developers to communicate
-    with Disqus data from within their own applications.
+  title: Disqus Forums TrustedDomain Kill
+  description: Forums TrustedDomain Kill
   termsOfService: https://docs.disqus.com/kb/terms-and-policies/
   version: 1.0.0
 host: disqus.com
@@ -15,10 +14,8 @@ produces:
 consumes:
 - application/json
 paths:
-  ? |2-
-
-        /forums/trustedDomain/kill.json
-  : post:
+  /forums/trustedDomain/kill.json:
+    post:
       summary: Forums TrustedDomain Kill
       description: "\n     Forums TrustedDomain Kill "
       operationId: forums-trusteddomain-kill
