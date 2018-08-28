@@ -1,0 +1,166 @@
+{
+	"name": "Streadata.io API Gallery - Forums",
+	"description": "This is a repository of forums APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/forums.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://forums.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Get Satisfaction",
+			"x-api-slug": "get-satisfaction",
+			"description": "Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/17-get-satisfaction.jpg",
+			"humanURL": "http://getsatisfaction.com",
+			"baseURL": "https:///",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/get-satisfaction/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "UserVoice",
+			"x-api-slug": "uservoice",
+			"description": "Product management software that transforms how businesses capture and analyze feedback to prioritize the roadmap and make strategic product decisions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/86-uservoice.jpg",
+			"humanURL": "https://uservoice.com/",
+			"baseURL": ":///user/http://api.thenounproject.com",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/uservoice/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DeviantArt",
+			"x-api-slug": "deviantart",
+			"description": "Popular 24 Hours - Your spot for viewing some of the best pieces on DeviantArt. Be inspired by a huge range of artwork from artists around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/180-deviantart.jpg",
+			"humanURL": "http://www.deviantart.com",
+			"baseURL": "https:///",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/deviantart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Disqus",
+			"x-api-slug": "disqus",
+			"description": "Disqus offers the best add-on tools for websites to increase engagement. We help publishers power online discussions with comments and earn revenue with native advertising.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/182-disqus.jpg",
+			"humanURL": "https://disqus.com/",
+			"baseURL": "https:///",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stack Exchange",
+			"x-api-slug": "stack-exchange",
+			"description": "After someone asks a question, members of the community propose answers. Others vote on those answers. Very quickly, the answers with the most votes rise to the top. You dont have to read through a lot of discussion to find the best answer.    Like to...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/253-stack-exchange.jpg",
+			"humanURL": "http://stackexchange.com",
+			"baseURL": "https://api.stackexchange.com//2.2",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/stack-exchange/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FixYa",
+			"x-api-slug": "fixya",
+			"description": "Product troubleshooting support, DIY advice, and help from experts & local pros. Ask questions and get answers to fix, repair, and service any product.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1059-fixya.jpg",
+			"humanURL": "http://www.fixya.com/",
+			"baseURL": "https:///",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/fixya/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "sitepoint.com",
+			"x-api-slug": "sitepoint-com",
+			"description": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20716-sitepoint-com.jpg",
+			"humanURL": "http://sitepoint.com",
+			"baseURL": "https:///",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/sitepoint-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CNET",
+			"x-api-slug": "cnet",
+			"description": "CNET is the worlds leader in tech product reviews, news, prices, videos, forums, how-tos and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28380-www-cnet-com.jpg",
+			"humanURL": "https://www.cnet.com",
+			"baseURL": "https:///",
+			"tags": "Forums",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/cnet/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Forums",
+	"include": [
+		{
+			"name": "Get Satisfaction",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/get-satisfaction/apis.yaml"
+		},
+		{
+			"name": "UserVoice",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/uservoice/apis.yaml"
+		},
+		{
+			"name": "DeviantArt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/deviantart/apis.yaml"
+		},
+		{
+			"name": "Disqus",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/disqus/apis.yaml"
+		},
+		{
+			"name": "Stack Exchange",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/stack-exchange/apis.yaml"
+		},
+		{
+			"name": "FixYa",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/fixya/apis.yaml"
+		},
+		{
+			"name": "sitepoint.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/sitepoint-com/apis.yaml"
+		},
+		{
+			"name": "CNET",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/forums/master/_listings/cnet/apis.yaml"
+		}
+	]
+}

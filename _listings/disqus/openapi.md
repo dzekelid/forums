@@ -1,11 +1,8 @@
----
 swagger: "2.0"
 x-collection-name: Disqus
 x-complete: 1
 info:
   title: Disqus
-  description: welcome-to-the-disqus-web-api--the-api-enables-developers-to-communicate-with-disqus-data-from-within-their-own-applications-
-  termsOfService: https://docs.disqus.com/kb/terms-and-policies/
   version: 1.0.0
 host: disqus.com
 basePath: api/3.0/
@@ -898,4 +895,3 @@ paths:
       - Comments
       - Users
       - Forums
----
